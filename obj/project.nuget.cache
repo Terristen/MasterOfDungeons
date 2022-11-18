@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yb5o++/eCNLIQIJEUNE9WGmJnflhjZ6rEaN2j8ufUGg3tMggdDZCdXPlcf62X+DMGJWdXCgvVGC5xmc70WYFmQ==",
+  "success": true,
+  "projectFilePath": "/home/bryan.hurley@iss.internal/Workspace/csharp/mod/mod.csproj",
+  "expectedPackageFiles": [
+    "/home/bryan.hurley@iss.internal/.nuget/packages/formatwith/3.0.1/formatwith.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

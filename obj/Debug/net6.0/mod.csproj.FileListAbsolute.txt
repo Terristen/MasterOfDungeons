@@ -1,0 +1,17 @@
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/bin/Debug/net6.0/mod
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/bin/Debug/net6.0/mod.deps.json
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/bin/Debug/net6.0/mod.runtimeconfig.json
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/bin/Debug/net6.0/mod.dll
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/bin/Debug/net6.0/ref/mod.dll
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/bin/Debug/net6.0/mod.pdb
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/obj/Debug/net6.0/mod.csproj.AssemblyReference.cache
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/obj/Debug/net6.0/mod.GeneratedMSBuildEditorConfig.editorconfig
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/obj/Debug/net6.0/mod.AssemblyInfoInputs.cache
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/obj/Debug/net6.0/mod.AssemblyInfo.cs
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/obj/Debug/net6.0/mod.csproj.CoreCompileInputs.cache
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/obj/Debug/net6.0/mod.dll
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/obj/Debug/net6.0/ref/mod.dll
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/obj/Debug/net6.0/mod.pdb
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/obj/Debug/net6.0/mod.genruntimeconfig.cache
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/bin/Debug/net6.0/FormatWith.dll
+/home/bryan.hurley@iss.internal/Workspace/csharp/mod/obj/Debug/net6.0/mod.csproj.CopyComplete
